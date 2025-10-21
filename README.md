@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Libraries
+
+1. Next.js
+1. MongoDB
+1. Mongoose
+
 ## Getting Started
 
 First, run the development server:
